@@ -29,3 +29,5 @@ Con estos comandos, los archivos modificados quedan almacenados y sincronizados 
 <img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/818b4995-c40e-4f8d-b33e-2814552fdf2c" />
 
 <img width="991" height="556" alt="image" src="https://github.com/user-attachments/assets/7c5f527f-a9b2-4d7f-af27-6f27088c497b" />
+git remote add origin https://github.com/tuUsuario/AI_Project.git
+https://ruta-de-tu-imagen.png
