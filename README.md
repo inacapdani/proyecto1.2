@@ -31,3 +31,7 @@ Con estos comandos, los archivos modificados quedan almacenados y sincronizados 
 <img width="991" height="556" alt="image" src="https://github.com/user-attachments/assets/7c5f527f-a9b2-4d7f-af27-6f27088c497b" />
 git remote add origin https://github.com/tuUsuario/AI_Project.git
 https://ruta-de-tu-imagen.png
+https://github.com/TuUsuario/AI_Project
+Enlace_GitHub_Daniela.txt
+https://github.com/TuUsuario/AI_Project
+Enlace_GitHub_Daniela.docx
