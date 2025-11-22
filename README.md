@@ -19,6 +19,7 @@ Se utilizó el comando:
 
 git clone https://github.com/TU_USUARIO/AI_Project.git
 
+<img width="921" height="518" alt="image" src="https://github.com/user-attachments/assets/7cb7dc70-7b4d-4c31-a299-10fed300f253" />
 
 El repositorio quedó disponible localmente.
 3. Creación del Archivo recommendation_system.py
