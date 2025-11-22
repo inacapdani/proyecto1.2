@@ -1,4 +1,29 @@
+Introducción
+
+El desarrollo de esta actividad tuvo como propósito explorar el uso de GitHub y GitHub Copilot como herramientas fundamentales en el contexto de las tendencias emergentes en inteligencia artificial. A través de un trabajo práctico y 100 % online, se buscó que el estudiante adquiriera habilidades básicas en la creación y gestión de repositorios, la documentación de procesos mediante archivos README y el uso de asistentes de programación como GitHub Copilot para generar código de manera asistida.
+
+Durante este proceso se siguieron una serie de pasos estructurados, que incluyeron la creación de una cuenta de estudiante en GitHub, la configuración del repositorio, la clonación del proyecto en Visual Studio Code, la elaboración de archivos necesarios y la subida (push) de los cambios a la plataforma. Este procedimiento permitió no solo comprender el funcionamiento técnico de GitHub, sino también valorar su utilidad como herramienta colaborativa para proyectos de programación, documentación y desarrollo de IA.
+
+Si quieres, puedo armarte el documento completo con:
+
 Después de crear y modificar los archivos en el proyecto local, es necesario guardar los cambios y sincronizarlos con el repositorio remoto en GitHub. Para esto, se utilizan los comandos de Git en la terminal integrada de Visual Studio Code.
+crear cuenta en github 
+iniciar seccion 
+crear repositorio nuevo
+poner nombre al proyecto
+elegir si es publico o privado
+crear repositorio 
+ubicar opcion add file 
+crear archivo en readme 
+editar contenido del readme
+pegar contenido o editar tu texto
+nsertar imágenes con drag-and-drop
+ Subir imágenes desde tu PC
+Guardar edición del archivo
+ Visualizar cómo quedó el README
+ Volver al repositorio principal
+Copiar el enlace del repositorio
+Hacer Commit changes (guardar cambios)
 
 Los pasos realizados son:
 1. Creación del Repositorio en GitHub
@@ -66,4 +91,7 @@ Aquí se deja el enlace al repositorio como evidencia:
 
 👉 https://github.com/TU_USUARIO/AI_Project
 <img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/e79c7e4b-eb72-425a-be0c-c1a4526e8bfb" />
+conclusion:
+La realización de este proyecto permitió comprender de forma práctica cómo funciona GitHub y cómo utilizarlo para crear, organizar y compartir archivos dentro de un repositorio. A través de cada uno de los pasos desarrollados —desde la creación de la cuenta, la generación del repositorio, la edición del archivo README y la carga de imágenes, hasta la realización de un commit y la obtención del enlace final— se logró adquirir habilidades básicas de manejo de esta plataforma.
 
+Este proceso no solo facilitó el aprendizaje del funcionamiento de GitHub, sino que también permitió evidenciar la importancia del orden, la documentación y el registro visual de las actividades realizadas. En conjunto, estas acciones favorecen un trabajo más profesional, organizado y fácil de presentar al docente. Con esta experiencia, queda claro que GitHub es una herramienta útil para gestionar proyectos, almacenar información y compartir avances de manera segura y eficiente.
