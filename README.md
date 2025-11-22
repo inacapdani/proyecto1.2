@@ -3,10 +3,7 @@ Introducción
 El desarrollo de esta actividad tuvo como propósito explorar el uso de GitHub y GitHub Copilot como herramientas fundamentales en el contexto de las tendencias emergentes en inteligencia artificial. A través de un trabajo práctico y 100 % online, se buscó que el estudiante adquiriera habilidades básicas en la creación y gestión de repositorios, la documentación de procesos mediante archivos README y el uso de asistentes de programación como GitHub Copilot para generar código de manera asistida.
 
 Durante este proceso se siguieron una serie de pasos estructurados, que incluyeron la creación de una cuenta de estudiante en GitHub, la configuración del repositorio, la clonación del proyecto en Visual Studio Code, la elaboración de archivos necesarios y la subida (push) de los cambios a la plataforma. Este procedimiento permitió no solo comprender el funcionamiento técnico de GitHub, sino también valorar su utilidad como herramienta colaborativa para proyectos de programación, documentación y desarrollo de IA.
-
-Si quieres, puedo armarte el documento completo con:
-
-Después de crear y modificar los archivos en el proyecto local, es necesario guardar los cambios y sincronizarlos con el repositorio remoto en GitHub. Para esto, se utilizan los comandos de Git en la terminal integrada de Visual Studio Code.
+Pasos para realizar la atividad:
 crear cuenta en github 
 iniciar seccion 
 crear repositorio nuevo
